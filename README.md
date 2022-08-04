@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://honeysuckle-seat-ff8.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52c65f85-50f8-41c0-a2b9-5395121cd471%2FNotionIcon.png?table=block&id=c70fed83-ed58-441c-8e20-1e59f04d0578&spaceId=4d429720-3a01-4110-bdd0-27238aaec84d&width=250&userId=&cache=v2"  alt="Logo" /></p>
 
-### Overview(vision) :
+## Overview(vision) :
 lego-build aims to make development fun again by automating routine tasks, like creating special files and folders that have the same boilerplate code or pattern. It also aims to be extremely flexible and extendable. The idea is that the power lies in the hands of the developer.
 
 ## The Problem:
