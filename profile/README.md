@@ -1,6 +1,6 @@
 <br />
-<p align="center"><img src="https://github.com/lego-build/.github/blob/main/logo.svg#gh-light-mode-only?raw=true" style="width: 350px"  alt="Logo" /></p>
-<p align="center"><img src="https://github.com/lego-build/.github/blob/main/LogoDark.svg#gh-dark-mode-only.svg?raw=true" style="width: 350px"  alt="Logo" /></p>
+<p align="center"><img src="https://github.com/lego-build/.github/blob/main/logo.svg#gh-light-mode-only" style="width: 350px"  alt="Logo" /></p>
+<p align="center"><img src="https://github.com/lego-build/.github/blob/main/LogoDark.svg#gh-dark-mode-only" style="width: 350px"  alt="Logo" /></p>
 <br />
 
 ## What is lego-build?:
